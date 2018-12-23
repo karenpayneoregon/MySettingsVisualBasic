@@ -1,0 +1,2 @@
+﻿ApplicationEvents.vb is shared between this project and the project ApplicationStartUpShared so this means any changes here 
+will be reflected in ApplicationStartUpShared. See Readme.txt in the project ApplicationStartUpShared for more details.
